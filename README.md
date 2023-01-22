@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![DesktopView Screenshot](./web.png)
-![MobileView Screenshot](./mobile.png)
+![DesktopView Screenshot](.../web.png)
+![MobileView Screenshot](.../mobile.png)
 
 ### Links
 
-- Solution URL: [Github Link](https://github.com/Lauraalinda/Front-end-mentor-challenge-QR--code-component-)
-- Live Site URL: [Live site](https://celadon-florentine-fc142a.netlify.app)
+- Solution URL: [Github Link](https://github.com/Lauraalinda/Front-end-mentor-challenge-nft-preview-card-component-)
+- Live Site URL: [Live site](https://comfy-twilight-eb2d53.netlify.app)
 
 ## My process
 
