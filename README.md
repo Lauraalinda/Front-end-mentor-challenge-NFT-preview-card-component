@@ -39,7 +39,9 @@ Users should be able to:
 
 ## Author
 
+- LinkedIn - [Kengaaju Laura Alinda](https://www.linkedin.com/in/kengaaju-laura-alinda-12b139231/)
 - Website - [Laura Alinda](https://poetic-narwhal-715626.netlify.app/)
 - Frontend Mentor - [@LauraAlinda](https://www.frontendmentor.io/profile/LauraAlinda)
 - Twitter - [@LauraAlinda6](https://www.twitter.com/LauraAlinda6)
+
 
